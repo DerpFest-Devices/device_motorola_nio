@@ -12,6 +12,9 @@ PRODUCT_NAME := lineage_nio
 PRODUCT_DEVICE := nio
 PRODUCT_MODEL := XT2125-4
 
+DERPFEST_BUILD_TYPE := Official
+DERPFEST_BUILD_VARIANT := Stable
+
 # Build info
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="nio_retcn-user 12 S1RN32.55-16-13 fce21a-b9f4e9 release-keys" \
